@@ -7,7 +7,7 @@ public class Main {
         nabilAccount.setNumber("12345");
         nabilAccount.setBalance(10000d);
         nabilAccount.setCustomerName("Nabil Arrouss");
-        nabilAccount.setCustomerEmail("Nabilarrouss@gmail.com");
+        nabilAccount.setCustomerEmail("emial@email.com");
         nabilAccount.setCustomerPhone("06 00 000 0000");
 
 
